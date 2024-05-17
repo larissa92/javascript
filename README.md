@@ -8,3 +8,5 @@ Linguagem Java
  Engenharia de Software
 
  Engenharia de Requisito.
+
+Curso da Alura =  javascript e html ----- desenvolva um jogo e prátique lógica.
