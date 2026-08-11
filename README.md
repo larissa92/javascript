@@ -1,12 +1,37 @@
-Práticando códigos e escrita  de comentário para fixação de contéudos para prova do cargo de analista de desenvolvimento de software.
+# 📜 JavaScript - Estudos e Exercícios
 
-Linguagem Java
- Práticas de versionamento de códigos
+> Repositório com exercícios e projetos em JavaScript para desenvolvimento de habilidades em programação frontend e manipulação de DOM.
 
- padroes de projeto
+## 📌 Objetivo
 
- Engenharia de Software
+Dominar JavaScript através de:
+- Conceitos fundamentais (variáveis, funções, objetos)
+- Manipulação do DOM
+- Eventos e callbacks
+- ES6+ features
+- Async/Await
 
- Engenharia de Requisito.
+## 🎯 Tópicos Abordados
 
-Curso da Alura =  javascript e html ----- desenvolva um jogo e prátique lógica.
+- ✅ Sintaxe e tipos de dados
+- ✅ Funções e escopo
+- ✅ Objetos e arrays
+- ✅ DOM manipulation
+- ✅ Event listeners
+- ✅ Promises e Async/Await
+- ✅ Modern JavaScript (ES6+)
+
+## 🛠️ Tecnologias
+
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Browser APIs
+
+## 💡 Estrutura
+
+Exercícios práticos com progressão de dificuldade, desde conceitos básicos até manipulação avançada de DOM.
+
+---
+
+**Desenvolvido por Larissa Irene Aguiar**
